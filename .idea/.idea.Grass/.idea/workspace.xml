@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca9714b4-25fb-4948-b48b-4a87076e4b3e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GrassManage.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="143" />
+              <folding>
+                <marker date="1545300591863" expanded="true" signature="6:47" ph="..." />
+                <marker date="1545300591863" expanded="true" signature="89:3103" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="904:937" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="952:1028" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="1045:1448" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="1467:2110" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="1633:1916" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="1804:1897" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2142:2445" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2305:2425" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2351:2421" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2464:2544" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2517:2541" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2564:3101" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2646:2769" ph="{...}" />
+                <marker date="1545300591863" expanded="true" signature="2772:2945" ph="/* Graphics.DrawMeshInstancedIndirect( ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stamp.shader" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/stamp/stamp.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543481764957" expanded="true" signature="19:856" ph="{...}" />
+                <marker date="1543481764957" expanded="true" signature="34:111" ph="{...}" />
+                <marker date="1543481764957" expanded="true" signature="124:854" ph="{...}" />
+                <marker date="1543481764957" expanded="true" signature="235:851" ph="{...}" />
+                <marker date="1543481764957" expanded="true" signature="249:842" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrassManage.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../terrain/Assets/grass/GrassManage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="106" column="56" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grass.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/tex/Grass.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="58" column="38" lean-forward="true" selection-end-line="126" />
+              <folding>
+                <marker date="1545296303715" expanded="true" signature="19:4375" ph="{...}" />
+                <marker date="1545296303715" expanded="true" signature="33:456" ph="{...}" />
+                <marker date="1545296303715" expanded="true" signature="471:4348" ph="{...}" />
+                <marker date="1545296303715" expanded="true" signature="606:4337" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="water.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/tex/water.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1193">
+              <caret line="75" column="92" selection-start-line="75" selection-start-column="92" selection-end-line="75" selection-end-column="92" />
+              <folding>
+                <marker date="1545297157549" expanded="true" signature="103:2035" ph="{...}" />
+                <marker date="1545297157549" expanded="true" signature="118:364" ph="{...}" />
+                <marker date="1545297157549" expanded="true" signature="377:2033" ph="{...}" />
+                <marker date="1545297157549" expanded="true" signature="477:515" ph="{...}" />
+                <marker date="1545297157549" expanded="true" signature="525:2030" ph="{...}" />
+                <marker date="1545297157549" expanded="true" signature="539:2021" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cyclone.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/stamp/cyclone.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <marker date="1542611175962" expanded="true" signature="21:874" ph="{...}" />
+                <marker date="1542611175962" expanded="true" signature="36:104" ph="{...}" />
+                <marker date="1542611175962" expanded="true" signature="117:872" ph="{...}" />
+                <marker date="1542611175962" expanded="true" signature="211:869" ph="{...}" />
+                <marker date="1542611175962" expanded="true" signature="225:860" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stamp.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/stamp/Stamp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="10" column="13" lean-forward="true" selection-end-line="36" />
+              <folding>
+                <marker date="1545300864095" expanded="false" signature="6:78" ph="..." />
+                <marker date="1545300864095" expanded="true" signature="149:689" ph="{...}" />
+                <marker date="1545300864095" expanded="true" signature="303:346" ph="{...}" />
+                <marker date="1545300864095" expanded="true" signature="378:436" ph="{...}" />
+                <marker date="1545300864095" expanded="true" signature="451:588" ph="{...}" />
+                <marker date="1545300864095" expanded="true" signature="616:685" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstancedGrass.shader" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../terrain/Assets/grass/InstancedGrass.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="22" column="81" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="81" />
+              <folding>
+                <marker date="1545209797312" expanded="true" signature="28:5076" ph="{...}" />
+                <marker date="1545209797312" expanded="true" signature="42:548" ph="{...}" />
+                <marker date="1545209797312" expanded="true" signature="563:5049" ph="{...}" />
+                <marker date="1545209797312" expanded="true" signature="572:875" ph="/* Tags { &quot;RenderType&quot;=&quot;Transparent&quot; &quot;Queue&quot;=&quot;Transparent&quot; &quot;IgnoreProjector&quot;=&quot;True&quot;} ... */" />
+                <marker date="1545209797312" expanded="true" signature="1076:5038" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stampMin</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/tex/Grass.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../terrain/Assets/grass/GrassManage.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../terrain/Assets/grass/InstancedGrass.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/stamp/cyclone.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/stamp/stamp.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/stamp/Stamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/tex/water.shader" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/tex/Grass.shader" />
+        <option value="$PROJECT_DIR$/Assets/tex/water.shader" />
+        <option value="$PROJECT_DIR$/Assets/code/GrassManage.cs" />
+        <option value="$PROJECT_DIR$/Assets/stamp/Stamp.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2068" />
+    <option name="y" value="-15" />
+    <option name="width" value="1873" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grass" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grass" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="7448">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="7448" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1975" y="-8" width="1873" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25813568" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26485923" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <marker date="1524864048000" expanded="true" signature="72:7194" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="247:7192" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1094:1514" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1573:2383" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1582:1736" ph="/* convert the world relative moveInput vector into a local-relative ... */" />
+            <marker date="1524864048000" expanded="true" signature="2120:2172" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2180:2220" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2430:3108" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2465:2620" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2628:3104" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2944:2994" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3147:3581" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3219:3577" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3535:3572" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3619:4877" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3919:3986" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3991:4247" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+            <marker date="1524864048000" expanded="true" signature="4462:4517" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4522:4693" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+            <marker date="1524864048000" expanded="true" signature="4736:4792" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4800:4873" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4911:5188" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5244:5622" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5394:5618" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5655:5918" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5951:6369" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5959:6098" ph="/* we implement this function to override the default root motion. ... */" />
+            <marker date="1524864048000" expanded="true" signature="6141:6365" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="6398:7189" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="6662:6841" ph="/* 0.1f is a small offset to start the ray from inside the character ... */" />
+            <marker date="1524864048000" expanded="true" signature="6957:7068" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="7076:7185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../terrain/Assets/grass/InstancedGrass.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="81" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="81" />
+          <folding>
+            <marker date="1545209797312" expanded="true" signature="28:5076" ph="{...}" />
+            <marker date="1545209797312" expanded="true" signature="42:548" ph="{...}" />
+            <marker date="1545209797312" expanded="true" signature="563:5049" ph="{...}" />
+            <marker date="1545209797312" expanded="true" signature="572:875" ph="/* Tags { &quot;RenderType&quot;=&quot;Transparent&quot; &quot;Queue&quot;=&quot;Transparent&quot; &quot;IgnoreProjector&quot;=&quot;True&quot;} ... */" />
+            <marker date="1545209797312" expanded="true" signature="1076:5038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tex/Grass.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <marker date="1545296303715" expanded="true" signature="19:4375" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="33:456" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="471:4348" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="606:4337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2054">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <marker date="1545300591863" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545300591863" expanded="true" signature="89:3103" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="904:937" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="952:1028" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1045:1448" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1467:2110" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1633:1916" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1804:1897" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2142:2445" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2305:2425" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2351:2421" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2464:2544" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2517:2541" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2564:3101" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2646:2769" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2772:2945" ph="/* Graphics.DrawMeshInstancedIndirect( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2054">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <marker date="1545300591863" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545300591863" expanded="true" signature="89:3103" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="904:937" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="952:1028" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1045:1448" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1467:2110" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1633:1916" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1804:1897" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2142:2445" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2305:2425" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2351:2421" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2464:2544" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2517:2541" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2564:3101" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2646:2769" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2772:2945" ph="/* Graphics.DrawMeshInstancedIndirect( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tex/Grass.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <marker date="1545296303715" expanded="true" signature="19:4375" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="33:456" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="471:4348" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="606:4337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="143" column="32" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+          <folding>
+            <marker date="1524864048000" expanded="true" signature="72:7194" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="247:7192" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1094:1514" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1573:2383" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1582:1736" ph="/* convert the world relative moveInput vector into a local-relative ... */" />
+            <marker date="1524864048000" expanded="true" signature="2120:2172" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2180:2220" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2430:3108" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2465:2620" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2628:3104" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2944:2994" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3147:3581" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3219:3577" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3535:3572" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3619:4877" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3919:3986" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3991:4247" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+            <marker date="1524864048000" expanded="true" signature="4462:4517" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4522:4693" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+            <marker date="1524864048000" expanded="true" signature="4736:4792" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4800:4873" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4911:5188" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5244:5622" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5394:5618" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5655:5918" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5951:6369" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5959:6098" ph="/* we implement this function to override the default root motion. ... */" />
+            <marker date="1524864048000" expanded="true" signature="6141:6365" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="6398:7189" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="6662:6841" ph="/* 0.1f is a small offset to start the ray from inside the character ... */" />
+            <marker date="1524864048000" expanded="true" signature="6957:7068" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="7076:7185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1545300591863" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545300591863" expanded="true" signature="89:3103" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="904:937" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="952:1028" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1045:1448" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1467:2110" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1633:1916" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1804:1897" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2142:2445" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2305:2425" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2351:2421" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2464:2544" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2517:2541" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2564:3101" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2646:2769" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2772:2945" ph="/* Graphics.DrawMeshInstancedIndirect( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="143" column="32" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1545300591863" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545300591863" expanded="true" signature="89:3103" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="904:937" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="952:1028" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1045:1448" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1467:2110" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1633:1916" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1804:1897" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2142:2445" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2305:2425" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2351:2421" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2464:2544" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2517:2541" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2564:3101" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2646:2769" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2772:2945" ph="/* Graphics.DrawMeshInstancedIndirect( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../terrain/Assets/grass/InstancedGrass.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="81" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="81" />
+          <folding>
+            <marker date="1545209797312" expanded="true" signature="28:5076" ph="{...}" />
+            <marker date="1545209797312" expanded="true" signature="42:548" ph="{...}" />
+            <marker date="1545209797312" expanded="true" signature="563:5049" ph="{...}" />
+            <marker date="1545209797312" expanded="true" signature="572:875" ph="/* Tags { &quot;RenderType&quot;=&quot;Transparent&quot; &quot;Queue&quot;=&quot;Transparent&quot; &quot;IgnoreProjector&quot;=&quot;True&quot;} ... */" />
+            <marker date="1545209797312" expanded="true" signature="1076:5038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <marker date="1524864048000" expanded="true" signature="72:7194" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="247:7192" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1094:1514" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1573:2383" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1582:1736" ph="/* convert the world relative moveInput vector into a local-relative ... */" />
+            <marker date="1524864048000" expanded="true" signature="2120:2172" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2180:2220" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2430:3108" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2465:2620" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2628:3104" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="2944:2994" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3147:3581" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3219:3577" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3535:3572" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3619:4877" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3919:3986" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="3991:4247" ph="/* calculate which leg is behind, so as to leave that leg trailing in the jump animation ... */" />
+            <marker date="1524864048000" expanded="true" signature="4462:4517" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4522:4693" ph="/* the anim speed multiplier allows the overall speed of walking/running to be tweaked in the inspector, ... */" />
+            <marker date="1524864048000" expanded="true" signature="4736:4792" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4800:4873" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="4911:5188" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5244:5622" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5394:5618" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5655:5918" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5951:6369" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="5959:6098" ph="/* we implement this function to override the default root motion. ... */" />
+            <marker date="1524864048000" expanded="true" signature="6141:6365" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="6398:7189" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="6662:6841" ph="/* 0.1f is a small offset to start the ray from inside the character ... */" />
+            <marker date="1524864048000" expanded="true" signature="6957:7068" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="7076:7185" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../terrain/Assets/grass/GrassManage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="106" column="56" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1524864048000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1524864048000" expanded="true" signature="86:1442" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="255:1440" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="619:978" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1010:1330" ph="{...}" />
+            <marker date="1524864048000" expanded="true" signature="1380:1434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tex/Grass.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="58" column="38" lean-forward="true" selection-end-line="126" />
+          <folding>
+            <marker date="1545296303715" expanded="true" signature="19:4375" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="33:456" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="471:4348" ph="{...}" />
+            <marker date="1545296303715" expanded="true" signature="606:4337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/stamp/cyclone.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1542611175962" expanded="true" signature="21:874" ph="{...}" />
+            <marker date="1542611175962" expanded="true" signature="36:104" ph="{...}" />
+            <marker date="1542611175962" expanded="true" signature="117:872" ph="{...}" />
+            <marker date="1542611175962" expanded="true" signature="211:869" ph="{...}" />
+            <marker date="1542611175962" expanded="true" signature="225:860" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/stamp/Stamp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" column="13" lean-forward="true" selection-end-line="36" />
+          <folding>
+            <marker date="1545300864095" expanded="false" signature="6:78" ph="..." />
+            <marker date="1545300864095" expanded="true" signature="149:689" ph="{...}" />
+            <marker date="1545300864095" expanded="true" signature="303:346" ph="{...}" />
+            <marker date="1545300864095" expanded="true" signature="378:436" ph="{...}" />
+            <marker date="1545300864095" expanded="true" signature="451:588" ph="{...}" />
+            <marker date="1545300864095" expanded="true" signature="616:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tex/water.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1193">
+          <caret line="75" column="92" selection-start-line="75" selection-start-column="92" selection-end-line="75" selection-end-column="92" />
+          <folding>
+            <marker date="1545297157549" expanded="true" signature="103:2035" ph="{...}" />
+            <marker date="1545297157549" expanded="true" signature="118:364" ph="{...}" />
+            <marker date="1545297157549" expanded="true" signature="377:2033" ph="{...}" />
+            <marker date="1545297157549" expanded="true" signature="477:515" ph="{...}" />
+            <marker date="1545297157549" expanded="true" signature="525:2030" ph="{...}" />
+            <marker date="1545297157549" expanded="true" signature="539:2021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/code/GrassManage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="143" />
+          <folding>
+            <marker date="1545300591863" expanded="true" signature="6:47" ph="..." />
+            <marker date="1545300591863" expanded="true" signature="89:3103" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="904:937" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="952:1028" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1045:1448" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1467:2110" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1633:1916" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="1804:1897" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2142:2445" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2305:2425" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2351:2421" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2464:2544" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2517:2541" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2564:3101" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2646:2769" ph="{...}" />
+            <marker date="1545300591863" expanded="true" signature="2772:2945" ph="/* Graphics.DrawMeshInstancedIndirect( ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/stamp/stamp.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543481764957" expanded="true" signature="19:856" ph="{...}" />
+            <marker date="1543481764957" expanded="true" signature="34:111" ph="{...}" />
+            <marker date="1543481764957" expanded="true" signature="124:854" ph="{...}" />
+            <marker date="1543481764957" expanded="true" signature="235:851" ph="{...}" />
+            <marker date="1543481764957" expanded="true" signature="249:842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
